@@ -34,7 +34,7 @@ answer[1] - 2, если программа завершается
 Программа завершается при достижении 3 укусов.
 
 ### Пример работы программы
-[Скриншоты с консольным выводом](https://github.com/lkhorasandzhian/os-ihw4/blob/main/grade_4-5/console-pictures)
+[Скриншоты с консольным выводом](https://github.com/Fedosz/OS_HW4/blob/main/program%20example.png)
 
 ## Выполненные критерии на 7 баллов
-Был добавлен [код логгера](https://github.com/lkhorasandzhian/os-ihw4/blob/main/grade_6-7/logger.c)
+Был добавлен [код логгера](https://github.com/Fedosz/OS_HW4/blob/main/7/logger.c)
